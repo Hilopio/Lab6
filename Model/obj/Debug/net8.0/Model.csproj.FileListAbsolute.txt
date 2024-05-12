@@ -1,0 +1,12 @@
+C:\Users\HONOR\source\repos\Solution1\Build\AnyCPU\Debug\net8.0\Model.deps.json
+C:\Users\HONOR\source\repos\Solution1\Build\AnyCPU\Debug\net8.0\Model.dll
+C:\Users\HONOR\source\repos\Solution1\Build\AnyCPU\Debug\net8.0\Model.pdb
+C:\Users\HONOR\source\repos\Solution1\task3\obj\Debug\net8.0\Model.csproj.AssemblyReference.cache
+C:\Users\HONOR\source\repos\Solution1\task3\obj\Debug\net8.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\source\repos\Solution1\task3\obj\Debug\net8.0\Model.AssemblyInfoInputs.cache
+C:\Users\HONOR\source\repos\Solution1\task3\obj\Debug\net8.0\Model.AssemblyInfo.cs
+C:\Users\HONOR\source\repos\Solution1\task3\obj\Debug\net8.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\source\repos\Solution1\task3\obj\Debug\net8.0\Model.dll
+C:\Users\HONOR\source\repos\Solution1\task3\obj\Debug\net8.0\refint\Model.dll
+C:\Users\HONOR\source\repos\Solution1\task3\obj\Debug\net8.0\Model.pdb
+C:\Users\HONOR\source\repos\Solution1\task3\obj\Debug\net8.0\ref\Model.dll
