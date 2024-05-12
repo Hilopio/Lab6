@@ -1,0 +1,15 @@
+C:\Users\HONOR\source\repos\Solution1\ViewModel\bin\Debug\net8.0\ViewModel.deps.json
+C:\Users\HONOR\source\repos\Solution1\ViewModel\bin\Debug\net8.0\ViewModel.dll
+C:\Users\HONOR\source\repos\Solution1\ViewModel\bin\Debug\net8.0\ViewModel.pdb
+C:\Users\HONOR\source\repos\Solution1\ViewModel\obj\Debug\net8.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HONOR\source\repos\Solution1\ViewModel\obj\Debug\net8.0\ViewModel.AssemblyInfoInputs.cache
+C:\Users\HONOR\source\repos\Solution1\ViewModel\obj\Debug\net8.0\ViewModel.AssemblyInfo.cs
+C:\Users\HONOR\source\repos\Solution1\ViewModel\obj\Debug\net8.0\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\HONOR\source\repos\Solution1\ViewModel\obj\Debug\net8.0\ViewModel.dll
+C:\Users\HONOR\source\repos\Solution1\ViewModel\obj\Debug\net8.0\refint\ViewModel.dll
+C:\Users\HONOR\source\repos\Solution1\ViewModel\obj\Debug\net8.0\ViewModel.pdb
+C:\Users\HONOR\source\repos\Solution1\ViewModel\obj\Debug\net8.0\ref\ViewModel.dll
+C:\Users\HONOR\source\repos\Solution1\ViewModel\bin\Debug\net8.0\Model.dll
+C:\Users\HONOR\source\repos\Solution1\ViewModel\bin\Debug\net8.0\Model.pdb
+C:\Users\HONOR\source\repos\Solution1\ViewModel\obj\Debug\net8.0\ViewModel.csproj.AssemblyReference.cache
+C:\Users\HONOR\source\repos\Solution1\ViewModel\obj\Debug\net8.0\ViewModel.csproj.CopyComplete
